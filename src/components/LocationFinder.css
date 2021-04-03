@@ -1,0 +1,4 @@
+.react-geocoder {
+  z-index: 3;
+  position: absolute;
+}
